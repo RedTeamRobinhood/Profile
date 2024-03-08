@@ -36,7 +36,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Mike Sineiro:
 
- <img width="247" alt="Screen Shot 2024-03-08 at 2 47 50 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/b4f01a54-b59b-4902-884e-9ded3a125918">
+ <img width="263" alt="Screen Shot 2024-03-08 at 3 05 15 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/96ee49ab-ab7a-4811-8c31-49514b3fca5e">
 
   Add info here: (EDIT)
 
