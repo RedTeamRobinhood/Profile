@@ -8,7 +8,14 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 ## Team Members 
 
-- William Baur: [LinkedIn](https://www.linkedin.com/in/williamrbaur/) [GitHub](https://github.com/Wrbaur)
+- William Baur
+
+<img width="239" alt="Screen Shot 2024-03-08 at 2 26 33 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/bf227cef-c9c4-4341-97cf-ef0c62726bdd">
+
+Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
+
+[LinkedIn](https://www.linkedin.com/in/williamrbaur/) [GitHub](https://github.com/Wrbaur)
+
 - Renona Gay: [LinkedIn](https://www.linkedin.com/in/renona-g-57935912a/) [GitHub](https://github.com/Foodisthebest)
 - Heraldo Morales: [LinkedIn](https://www.linkedin.com/in/heraldo-morales/) [GitHub](https://github.com/HeraldoM332)
 - Mike Sineiro: [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/) [GitHub](https://github.com/KrustyKode)
