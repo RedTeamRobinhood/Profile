@@ -36,7 +36,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Mike Sineiro:
 
-  <img width="270" alt="Screen Shot 2024-03-08 at 3 06 21 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/b6e212ef-1430-4f22-a933-cdd807592d02">
+  <img width="187" alt="Screen Shot 2024-03-08 at 3 09 58 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/c535399f-4f8b-418c-a493-3f3b06df0255">
 
   Add info here: (EDIT)
 
@@ -44,7 +44,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Amleset Tesfamariam:
 
-  <img width="198" alt="Screen Shot 2024-03-08 at 3 07 56 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/e0ca9c45-5c80-47d5-9c8f-3f9e538a95d5">
+   <img width="246" alt="Screen Shot 2024-03-08 at 3 11 53 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/7dd100d4-332b-47bf-af81-c9b1617d48d8">  
 
  Previously I worked in healthcare before pursuing cybersecurity. While working in healthcare, I had the opportunity to work closely with sensitive patient data and witness the critical importance of data privacy and security. This experience instilled in me a deep appreciation for the need to protect confidential information and ensure the integrity of digital systems. I recognized that my background in healthcare provided me with valuable insights into the complexities of safeguarding data and mitigating risks in a highly regulated environment.
 
