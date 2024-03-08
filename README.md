@@ -57,7 +57,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 ## Project Management Tool 
 
-* Trello Board: (https://trello.com/b/ah44Trby/red-team-robinhood)
+* Trello Board: [Trello](https://trello.com/b/ah44Trby/red-team-robinhood)
 
 
 ## Team Documents 
