@@ -12,7 +12,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - William Baur:
 
-  <img width="239" alt="Screen Shot 2024-03-08 at 2 26 33 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/bf227cef-c9c4-4341-97cf-ef0c62726bdd">
+    <img width="239" alt="Screen Shot 2024-03-08 at 2 26 33 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/bf227cef-c9c4-4341-97cf-ef0c62726bdd">
 
   Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
 
@@ -20,7 +20,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Renona Gay:
 
-  <img width="235" alt="Screen Shot 2024-03-08 at 2 36 16 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/6319fa51-282d-4cdc-9d43-7e3edabdd3ab">
+    <img width="235" alt="Screen Shot 2024-03-08 at 2 36 16 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/6319fa51-282d-4cdc-9d43-7e3edabdd3ab">
 
   Add info here: (EDIT)
 
@@ -28,7 +28,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
   
 - Heraldo Morales:
 
-  <img width="234" alt="Screen Shot 2024-03-08 at 3 03 21 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/e9b97dbd-c386-41e2-b5c5-3050e6758e12">
+    <img width="234" alt="Screen Shot 2024-03-08 at 3 03 21 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/e9b97dbd-c386-41e2-b5c5-3050e6758e12">
 
   Studying in Cybersecurity, already have basic level skills for using commands. Basic knowledge of Virtual Machine program, Have knowledge in Command Prompt/Terminal. A fast and avid learner.
 
@@ -36,7 +36,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Mike Sineiro:
 
-  <img width="187" alt="Screen Shot 2024-03-08 at 3 09 58 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/c535399f-4f8b-418c-a493-3f3b06df0255">
+    <img width="229" alt="Screen Shot 2024-03-08 at 3 13 48 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/fc2c3742-f32d-4897-94a0-613f0f2a1dc6">
 
   Add info here: (EDIT)
 
@@ -44,7 +44,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 - Amleset Tesfamariam:
 
-   <img width="246" alt="Screen Shot 2024-03-08 at 3 11 53 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/7dd100d4-332b-47bf-af81-c9b1617d48d8">  
+    <img width="237" alt="Screen Shot 2024-03-08 at 3 13 15 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/61444aad-937b-4088-b588-e9cbde05b073">
 
  Previously I worked in healthcare before pursuing cybersecurity. While working in healthcare, I had the opportunity to work closely with sensitive patient data and witness the critical importance of data privacy and security. This experience instilled in me a deep appreciation for the need to protect confidential information and ensure the integrity of digital systems. I recognized that my background in healthcare provided me with valuable insights into the complexities of safeguarding data and mitigating risks in a highly regulated environment.
 
