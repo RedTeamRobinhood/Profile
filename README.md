@@ -28,7 +28,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
   
 - Heraldo Morales:
 
- <img width="144" alt="Screen Shot 2024-03-08 at 2 40 59 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/ca8aaa47-9551-4cef-9090-0a474062b5bf">
+ <img width="234" alt="Screen Shot 2024-03-08 at 3 03 21 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/e9b97dbd-c386-41e2-b5c5-3050e6758e12">
 
   Studying in Cybersecurity, already have basic level skills for using commands. Basic knowledge of Virtual Machine program, Have knowledge in Command Prompt/Terminal. A fast and avid learner.
 
