@@ -2,28 +2,59 @@
 
 # Project Scenario: Completing Penetration Test & Report for SimCorp
 
+
 ## About our team (EDIT)
 
 Insert a few sentences about what/who Red Team Robinhood is.
 
+
 ## Team Members 
 
-- William Baur
+- William Baur:
 
-<img width="239" alt="Screen Shot 2024-03-08 at 2 26 33 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/bf227cef-c9c4-4341-97cf-ef0c62726bdd">
+ <img width="239" alt="Screen Shot 2024-03-08 at 2 26 33 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/bf227cef-c9c4-4341-97cf-ef0c62726bdd">
 
-Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
+  Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
 
-[LinkedIn](https://www.linkedin.com/in/williamrbaur/) [GitHub](https://github.com/Wrbaur)
+  [LinkedIn](https://www.linkedin.com/in/williamrbaur/) [GitHub](https://github.com/Wrbaur)
 
-- Renona Gay: [LinkedIn](https://www.linkedin.com/in/renona-g-57935912a/) [GitHub](https://github.com/Foodisthebest)
-- Heraldo Morales: [LinkedIn](https://www.linkedin.com/in/heraldo-morales/) [GitHub](https://github.com/HeraldoM332)
-- Mike Sineiro: [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/) [GitHub](https://github.com/KrustyKode)
-- Amleset Tesfamariam: [LinkedIn](https://www.linkedin.com/in/amleset-t/) [GitHub](https://github.com/AmlesetT)
+- Renona Gay:
+
+ <img width="235" alt="Screen Shot 2024-03-08 at 2 36 16 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/6319fa51-282d-4cdc-9d43-7e3edabdd3ab">
+
+  Add info here: (EDIT)
+
+  [LinkedIn](https://www.linkedin.com/in/renona-g-57935912a/) [GitHub](https://github.com/Foodisthebest)
+  
+- Heraldo Morales:
+
+ <img width="144" alt="Screen Shot 2024-03-08 at 2 40 59 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/ca8aaa47-9551-4cef-9090-0a474062b5bf">
+
+  Studying in Cybersecurity, already have basic level skills for using commands. Basic knowledge of Virtual Machine program, Have knowledge in Command Prompt/Terminal. A fast and avid learner.
+
+- [LinkedIn](https://www.linkedin.com/in/heraldo-morales/) [GitHub](https://github.com/HeraldoM332)
+
+- Mike Sineiro:
+
+ <img width="247" alt="Screen Shot 2024-03-08 at 2 47 50 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/b4f01a54-b59b-4902-884e-9ded3a125918">
+
+  Add info here: (EDIT)
+
+- [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/) [GitHub](https://github.com/KrustyKode)
+
+- Amleset Tesfamariam:
+
+ <img width="176" alt="Screen Shot 2024-03-08 at 2 58 32 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/8721bbb0-3adb-44ee-99d0-b83f5bb63bef">
+
+ Previously I worked in healthcare before pursuing cybersecurity. While working in healthcare, I had the opportunity to work closely with sensitive patient data and witness the critical importance of data privacy and security. This experience instilled in me a deep appreciation for the need to protect confidential information and ensure the integrity of digital systems. I recognized that my background in healthcare provided me with valuable insights into the complexities of safeguarding data and mitigating risks in a highly regulated environment.
+
+- [LinkedIn](https://www.linkedin.com/in/amleset-t/) [GitHub](https://github.com/AmlesetT)
+
 
 ## Executive Summary:
 
 * We have been tasked with enumerating the target network at SimCorp from a "black box" position (minimal knowledge of the target environment) starting with a foothold on a single endpoint. One of our goals is to discover as many vulnerabilities as we can and document them in accordance with community resources such as CWE and CVSS. Additionally, we will apply TTPs and perform exploits as the opportunities present themselves and document how these TTPs were executed and whether they were successful or not.
+
 
 ## Current Challenges: (EDIT)
 
@@ -36,6 +67,7 @@ Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran
 * Lack of Effective Monitoring: The absence of a robust SIEM system hinders the real-time detection of malicious activities and delays response to potential threats.
 
 * Inefficient Cloud Monitoring Systems: Current cloud monitoring practices are insufficient to capture and analyze traffic effectively, limiting the ability to detect and respond to attack TTPs.
+
 
 ## Proposed Solutions: (EDIT)
 
@@ -50,6 +82,7 @@ Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran
 * Novel Tool Integration: Explore and implement a novel cybersecurity tool or technique to enhance the existing security framework.
 
 * Compliance and Documentation: Develop thorough compliance documentation and security incident plans to align with industry standards like PCI or GDPR.
+
 
 ## Project Objectives:
 
