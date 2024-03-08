@@ -54,6 +54,12 @@ Insert a few sentences about what/who Red Team Robinhood is.
 * Outcome Expectation:
 * Upon project completion, SimCorp will have a complete penetration test report, highlighting their vulnerabilities, tested exploits, and areas to potentially improve to help strengthen their systems and thus improving their cybersecurity posture.
 
+
+## Project Management Tool 
+
+* Trello Board: (https://trello.com/b/ah44Trby/red-team-robinhood)
+
+
 ## Team Documents 
 
 - [Team Agreement]()
@@ -61,5 +67,6 @@ Insert a few sentences about what/who Red Team Robinhood is.
 - [Presentation Materials]()
 - [SOPs]()
 - [Visuals]()
+
 
 ## Additional Resources 
