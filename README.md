@@ -38,7 +38,7 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
     <img width="229" alt="Screen Shot 2024-03-08 at 3 13 48 PM" src="https://github.com/RedTeamRobinhood/Profile/assets/139098353/fc2c3742-f32d-4897-94a0-613f0f2a1dc6">
 
-  Add info here: (EDIT)
+  Hello, my name is Mike Sineiro. Before I became a cybersecurity professional, I spent 7 years in the U.S. Army. I decided to change careers because of my lifelong passion for technology and computers. I spent a few years learning software development, before ultimately switching to the cybersecurity side. I’m happy to have some software development experience because the two spheres complement each other well. I’m seeking a career that will allow me to leverage my skills as both a developer and a cybersecurity professional. Ideally, I am looking for a high-paced, innovative environment to further hone my skills, and satisfy my desire to learn continually.
 
 - [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/) [GitHub](https://github.com/KrustyKode)
 
