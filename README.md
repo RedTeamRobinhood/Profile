@@ -107,6 +107,8 @@ Insert a few sentences about what/who Red Team Robinhood is.
 - [Presentation Materials]()
 - [SOPs]()
 - [Visuals]()
+- [Nmap Scans](https://docs.google.com/document/d/16PyCNoN4lJggkAPQlxmrdhe6_D4vGApEWp2qplxb6wo/edit)
+- [Slide Deck](https://docs.google.com/presentation/d/18X9p7heQqu7QjO3CAXZ5s9TwXkfLRAEV7mDD_qT2TeM/edit#slide=id.g26ba6747bb7_2_31)
 
 
 ## Additional Resources 
